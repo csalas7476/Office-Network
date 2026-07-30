@@ -4,4 +4,5 @@ This project simulates a real-world office network built in Cisco Packet Tracer.
 
 The objective of this project was to gain hands-on experience designing, configuring, and securing a business network while demonstrating how employees can communicate and access internal company resources in a controlled environment.
 
-![image alt](https://github.com/csalas7476/Office-Network/blob/2a6ad468607d5f0299868002884913bff0aeb55d/Screenshot%20(5).png)
+<img width="1874" height="726" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/3415baa2-5f04-4162-9883-8c0f0435edfa" />
+
