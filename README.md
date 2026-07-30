@@ -7,6 +7,7 @@ The objective of this project was to gain hands-on experience designing, configu
 <img width="1874" height="726" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/3415baa2-5f04-4162-9883-8c0f0435edfa" />
 
 Project Overview:
+
 This project simulates an office netowrk with multiple users, internal servers, and netowkr security protcols 
 
 The main goals of this project were:
@@ -25,6 +26,7 @@ Server Room / DATA Center (Right Side):
 * All services are on a separate subnet for secuirty
 
 
+<img width="1410" height="763" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/782f8f98-d174-4073-bab0-8963c50d74d3" />
 
 
 
