@@ -25,20 +25,20 @@ Server Room / DATA Center (Right Side):
 * Host core services; DCHP, DNS, Web, File Server, and Firewall
 * All services are on a separate subnet for secuirty
 
-<img width="1386" height="792" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/0b4b8731-3e64-4b0b-a913-c35b5507041f" />
-
 
 Employees Access:
 * All employees that are recognized and authorized see resources
 
-
-<img width="1410" height="763" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/782f8f98-d174-4073-bab0-8963c50d74d3" />
+<img width="1386" height="792" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/b3da9d5a-7a85-4dab-97f4-4c52bc42e7ce" />
 
 
 
 Unkown User (Outside Network):
 * Simulates an external/unathorized user
 * Access is denied by the firewall (or not recognized by DCHP)
+
+<img width="1410" height="763" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/dc957902-c1a9-4fdf-98fc-523256e8c9f3" />
+
 
 Router (Internet)
 * Routes traffic between internal network and internet 
