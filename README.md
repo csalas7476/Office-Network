@@ -25,6 +25,12 @@ Server Room / DATA Center (Right Side):
 * Host core services; DCHP, DNS, Web, File Server, and Firewall
 * All services are on a separate subnet for secuirty
 
+<img width="1386" height="792" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/0b4b8731-3e64-4b0b-a913-c35b5507041f" />
+
+
+Employees Access:
+* All employees that are recognized and authorized see resources
+
 
 <img width="1410" height="763" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/782f8f98-d174-4073-bab0-8963c50d74d3" />
 
