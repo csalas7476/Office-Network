@@ -47,9 +47,15 @@ Router (Internet)
 Services Configured:
 
 Service        |         Purpose
+
 DCHP           |         Automatically assigns IP addresses to office PCs
+
 DNS            |         Resolves internal domain names (e.g., mail.company.local)
+
 Email Server   |         Allows user to send and receive emails internally
+
 Web Server     |         Hosts a private internal website accessible by office users
+
 File Server    |         Stores and shares company files
+
 Firewall       |         Blocks unauthorized access from unknown users
