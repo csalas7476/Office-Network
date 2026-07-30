@@ -27,7 +27,7 @@ Server Room / DATA Center (Right Side):
 
 
 Employees Access:
-* All employees that are recognized and authorized see resources
+* All employees that are recognized and authorized will the company resources
 
 <img width="1386" height="792" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/b3da9d5a-7a85-4dab-97f4-4c52bc42e7ce" />
 
