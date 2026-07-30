@@ -6,3 +6,32 @@ The objective of this project was to gain hands-on experience designing, configu
 
 <img width="1874" height="726" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/3415baa2-5f04-4162-9883-8c0f0435edfa" />
 
+Project Overview:
+This project simulates an office netowrk with multiple users, internal servers, and netowkr security protcols 
+
+The main goals of this project were:
+* Allow office users to access internal company resources 
+* Enable email and communication between users
+* Host a  private web server for internal access
+* Restrict unathorized access from unknown users
+
+Network Design:
+Office Network (Left Side):
+* 5 PCs representing employees
+* Connceted to a switch for internal communication
+
+Server Room / DATA Center (Right Side):
+* Host core services; DCHP, DNS, Web, File Server, and Firewall
+* All services are on a separate subnet for secuirty
+
+
+
+
+
+Unkown User (Outside Network):
+* Simulates an external/unathorized user
+* Access is denied by the firewall (or not recognized by DCHP)
+
+Router (Internet)
+* Routes traffic between internal network and internet 
+* Firewall protects internal resources from external threats
