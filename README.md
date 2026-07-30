@@ -44,6 +44,11 @@ Router (Internet)
 * Routes traffic between internal network and internet 
 * Firewall protects internal resources from external threats
 
+Security:
+* Firewall rules deny traffic from unknown/external users
+* Only office network has access to internal services
+* DCHP ensures only authorized devices get network access
+
 Services Configured:
 
 Service        |         Purpose
@@ -59,3 +64,11 @@ Web Server     |         Hosts a private internal website accessible by office u
 File Server    |         Stores and shares company files
 
 Firewall       |         Blocks unauthorized access from unknown users
+
+
+What I learned:
+
+* Network segmentation and subnetting
+* Configuring and troubleshooting essential network services
+* Implementing security using firewalls and access control
+* Simulating a work office IT infrastructure 
